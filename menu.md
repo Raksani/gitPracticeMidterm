@@ -18,3 +18,5 @@
     return a + b
     ```
 1. Implement Junit
+2. Review all code
+3. Share code only when ready.
