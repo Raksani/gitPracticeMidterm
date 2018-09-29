@@ -23,7 +23,11 @@
 1. Implement Junit
 2. Accept and improve your code as your team's reviewed.
 3. Not edit your test when it looks OK.
-
 1. Implement unittest
 1. Use Agile Development Process
-
+2. Review all code
+3. Share code only when ready.
+1. Love Jame
+1. always have test class
+2. Use Scrum
+3. Work in other project and learn new skill
