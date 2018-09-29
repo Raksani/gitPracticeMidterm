@@ -18,3 +18,5 @@
     return a + b
     ```
 1. Implement Junit
+2. Accept and improve your code as your team's reviewed.
+3. Not edit your test when it looks OK.
