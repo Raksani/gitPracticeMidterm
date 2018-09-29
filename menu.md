@@ -16,14 +16,14 @@
     :raise: TypeError when arguments are not number
     """
     if type(a) != int or type(b) != int:
-      raise TypeError
+          raise TypeError
     return a + b
     ```
-1. Implement Junit
-1. Love Jame
-1. always have test class
+2. Review all code
+3. Share code only when ready.
 1. Implement unittest
 1. Use Agile Development Process
+1. Love Jame
+1. always have test class
 2. Use Scrum
 3. Work in other project and learn new skill
-4. Use Agile Development Process
