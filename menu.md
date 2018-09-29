@@ -24,3 +24,6 @@
 1. always have test class
 1. Implement unittest
 1. Use Agile Development Process
+2. Use Scrum
+3. Work in other project and learn new skill
+4. Use Agile Development Process
