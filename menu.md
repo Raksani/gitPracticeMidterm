@@ -18,3 +18,5 @@
     return a + b
     ```
 1. Implement Junit
+1. Love Jame
+1. always have test class
